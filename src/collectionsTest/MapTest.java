@@ -141,6 +141,7 @@ public class MapTest
 		System.out.println(map.toString());
 		Person pers = (Person) map.get(nelkit.getName());
 		System.out.println(pers.getName());
+		System.out.println(pers.getName());
 
 
 	}
